@@ -90,3 +90,4 @@ class ECA_MaxPool_layer(nn.Module):
         # y = self.sigmoid(y)
 
         return x * y.expand_as(x)
+    

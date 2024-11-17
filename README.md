@@ -1,6 +1,6 @@
 # Prog-SR
 ### Experimental environments:
-PyTorch 2.2.0 + Python3.10;
+PyTorch 2.2.0 + Python 3.10;
 
 ### Datasets
 For training, we use DIV2K and Flickr2K datasets. To accelerate image loading during training, each training image is evenly divided into four
